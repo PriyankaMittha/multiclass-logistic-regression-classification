@@ -80,7 +80,7 @@ multiclass-logistic-regression-classification
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/multiclass-logistic-regression-classification.git
+git clone https://github.com/PriyankaMittha/multiclass-logistic-regression-classification
 ```
 
 2. Install dependencies
